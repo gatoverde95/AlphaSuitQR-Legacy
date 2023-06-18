@@ -1,0 +1,69 @@
+VERSION 5.00
+Begin VB.Form Form1 
+   Caption         =   "Form1"
+   ClientHeight    =   3975
+   ClientLeft      =   120
+   ClientTop       =   465
+   ClientWidth     =   5610
+   LinkTopic       =   "Form1"
+   ScaleHeight     =   3975
+   ScaleWidth      =   5610
+   StartUpPosition =   3  'Windows Default
+   Begin VB.CommandButton Command3 
+      Caption         =   "Salir"
+      Height          =   375
+      Left            =   4080
+      TabIndex        =   3
+      Top             =   3480
+      Width           =   1335
+   End
+   Begin VB.CommandButton Command2 
+      Caption         =   "AlphaGenQR"
+      Height          =   495
+      Left            =   1800
+      TabIndex        =   2
+      Top             =   3360
+      Width           =   1215
+   End
+   Begin VB.CommandButton Command1 
+      Caption         =   "AlphaReaderQR"
+      Height          =   495
+      Left            =   240
+      TabIndex        =   1
+      Top             =   3360
+      Width           =   1335
+   End
+   Begin VB.PictureBox Picture1 
+      Height          =   2895
+      Left            =   120
+      ScaleHeight     =   2835
+      ScaleWidth      =   5235
+      TabIndex        =   0
+      Top             =   120
+      Width           =   5295
+   End
+End
+Attribute VB_Name = "Form1"
+Attribute VB_GlobalNameSpace = False
+Attribute VB_Creatable = False
+Attribute VB_PredeclaredId = True
+Attribute VB_Exposed = False
+Private Sub Command1_Click()
+
+End Sub
+
+Private Sub Command2_Click()
+
+End Sub
+
+Private Sub Command3_Click()
+
+End Sub
+
+Private Sub Form_Load()
+
+End Sub
+
+Private Sub Picture1_Click()
+
+End Sub
