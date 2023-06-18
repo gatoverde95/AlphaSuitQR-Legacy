@@ -3,8 +3,8 @@ AlphaSuitQR
 
 Codes QR based in Python 3.13 and VS Basic.
 
-.. figure:: https://github-production-user-asset-6210df.s3.amazonaws.com/104691219/246646939-b4533e3d-7c9d-4435-b0f5-cf5ca50f809c.png=true
-           :alt: AlphaSuitQR Interface
+.. figure:: https://github.com/gatoverde95/AlphaSuitQR/blob/main/alpha/alpha_bitmap.png=true
+   :alt: AlphaSuitQR Interface
 
 Repositorios obligatorios
 ============================
