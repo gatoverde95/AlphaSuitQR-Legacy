@@ -17,6 +17,7 @@ Repositorio de QRCode
 
 
 Repositorio de PyZbar
+
 .. code:: bash
 
    pip install pyzbar
