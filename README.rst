@@ -5,6 +5,8 @@ Es un programa basico de uso educativo en las clases de Programacion orientado a
 
 Es algo compatible en Android con el uso de archivos . sh como ejecutables pero si con el formato PY.
 
+Este codigo fuente esta protegido por una licencia Apache 2.0 lo cual lo hace libre su uso.
+
 .. figure:: https://github.com/gatoverde95/AlphaSuitQR/blob/main/alpha/alpha_bitmap.png=true
    :alt: AlphaSuitQR Interface
 
